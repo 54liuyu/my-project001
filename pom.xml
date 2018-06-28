@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <name>my-project001</name>
-    <description>my study demo project</description>
+    <description>my study demo project001</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
